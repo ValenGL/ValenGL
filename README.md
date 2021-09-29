@@ -6,7 +6,6 @@
 <li>- Full Stack Web Dev- JAVA. Codo a codo 4.0 (GCBA). 2021-</li>
 <li>- Full Stack Web Dev- Angular. Ícaro (Universidad Nacional de Córdoba). 2021-</li>
 <li>- UX/UI design. EducacionIT (Digit@lers). 2021-</li>
-<li>- Java. Full Stack Dev. Codo a Codo 4.0. 2021-</li>
 <li>- Php. PoloTic. 2021-</li>
 
 <br><br>
