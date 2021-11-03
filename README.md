@@ -2,11 +2,13 @@
 <h3 align="center">I'm interested in frontend languajes<h3>
 <br><br>
 <ul>
-<li>- Full Stack Web Dev- Angular/JAVA. Argentina Programa 2021-</li>
-<li>- Full Stack Web Dev- JAVA. Codo a codo 4.0 (GCBA). 2021-</li>
-<li>- Full Stack Web Dev- Angular. Ícaro (Universidad Nacional de Córdoba). 2021-</li>
-<li>- UX/UI design. EducacionIT (Digit@lers). 2021-</li>
-<li>- Php. PoloTic. 2021-</li>
+<li>- Full Stack Web Dev - Angular / Typescript. Ícaro (UNC). 2021 -</li>
+<li>- Full Stack Web Dev - JAVA. Codo a codo 4.0 (GCBA). 2021- </li>
+<li>- Full Stack Web Dev - Angular / JAVA. Argentina Programa. 2021 - </li>
+<li>- Front End Web Dev - Javascript. Fundación Telefónica. 2021 - </li>
+<li>- Full Stack Web Dev - Php. PoloTic. 2021 - </li>
+<li>- UX/UI design. EducacionIT (Digit@lers). 2021 -</li>
+
 
 <br><br>
 </ul>
