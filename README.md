@@ -5,7 +5,6 @@
 <li>- Full Stack Web Dev - Angular / Typescript. Ícaro (UNC). 2021 -</li>
 <li>- Full Stack Web Dev - JAVA. Codo a codo 4.0 (GCBA). 2021- </li>
 <li>- Front End Web Dev - Javascript. Fundación Telefónica. 2021 - </li>
-<li>- Full Stack Web Dev - Php. PoloTic. 2021 - </li>
 
 
 <br><br>
