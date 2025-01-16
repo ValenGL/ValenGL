@@ -1,5 +1,5 @@
 <h1 align="center">Valentin Gonzalez Loureiro.</h1>
 <br>
-<h3 align="center">Front-end Developer<h3>
+<h3 align="center">Front end developer<h3>
 
 
